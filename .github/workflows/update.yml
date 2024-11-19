@@ -17,22 +17,14 @@ jobs:
       - name: Setup Java
         run: echo "JAVA_HOME=$JAVA_HOME_17_X64" >> "$GITHUB_ENV"
 
-      - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v4
-        with:
-          gradle-home-cache-cleanup: true
-
-      - name: Validate Gradle Wrapper Integrity
-        uses: gradle/wrapper-validation-action@v2
+      - name: make gradle wrapper executable
+        run: chmod +x ./gradlew
 
       - name: Update
         run: ./gradlew run
 
       - name: Push updated files
-        # If all files are identical this will do nothing, no need to check.
-        run: |
-          git config --global user.name github-actions-bot
-          git config --global user.email github-actions[bot]@users.noreply.github.com
-          git add .
-          git commit -m "Update"
-          git push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions-bot
+          author_email: github-actions[bot]@users.noreply.github.com
