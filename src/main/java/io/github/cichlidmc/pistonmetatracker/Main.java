@@ -55,6 +55,8 @@ public class Main {
 	}
 
 	private static void krill(Path dir) throws IOException {
+		if (!Files.exists(dir))
+			return;
 		Files.walkFileTree(dir, new SimpleFileVisitor<>() {
 			@Override
 			public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
