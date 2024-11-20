@@ -1,10 +1,7 @@
 {
 	"assetIndex": {
 		"id": "1.7.4",
-		"sha1": "545510a60f526b9aa8a38f9c0bc7a74235d21675",
-		"size": 59675.0,
-		"totalSize": 1.12252715E8,
-		"url": "https://launchermeta.mojang.com/v1/packages/545510a60f526b9aa8a38f9c0bc7a74235d21675/1.7.4.json"
+		"size": 59675.0
 	},
 	"assets": "1.7.4",
 	"complianceLevel": 0.0,

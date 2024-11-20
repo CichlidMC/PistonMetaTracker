@@ -107,10 +107,7 @@
 	},
 	"assetIndex": {
 		"id": "1.14-af",
-		"sha1": "5c7028b2c197372b6b7570ead909515232a936ab",
-		"size": 224712.0,
-		"totalSize": 2.06652481E8,
-		"url": "https://piston-meta.mojang.com/v1/packages/5c7028b2c197372b6b7570ead909515232a936ab/1.14-af.json"
+		"size": 224712.0
 	},
 	"assets": "1.14-af",
 	"complianceLevel": 0.0,

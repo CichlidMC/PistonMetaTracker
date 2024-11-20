@@ -1,10 +1,7 @@
 {
 	"assetIndex": {
 		"id": "1.9-aprilfools",
-		"sha1": "14f88f72996933276f8b62f6b678a8ba5b0ba57a",
-		"size": 114951.0,
-		"totalSize": 1.20939267E8,
-		"url": "https://piston-meta.mojang.com/v1/packages/14f88f72996933276f8b62f6b678a8ba5b0ba57a/1.9-aprilfools.json"
+		"size": 114951.0
 	},
 	"assets": "1.9-aprilfools",
 	"complianceLevel": 0.0,

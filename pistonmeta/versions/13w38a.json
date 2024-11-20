@@ -1,10 +1,7 @@
 {
 	"assetIndex": {
 		"id": "legacy",
-		"sha1": "770572e819335b6c0a053f8378ad88eda189fc14",
-		"size": 109634.0,
-		"totalSize": 1.53475165E8,
-		"url": "https://launchermeta.mojang.com/v1/packages/770572e819335b6c0a053f8378ad88eda189fc14/legacy.json"
+		"size": 109634.0
 	},
 	"assets": "legacy",
 	"downloads": {

@@ -1,10 +1,7 @@
 {
 	"assetIndex": {
 		"id": "14w25a",
-		"sha1": "32ff354a3be1c4dd83027111e6d79ee4d701d2c0",
-		"size": 69887.0,
-		"totalSize": 1.12784195E8,
-		"url": "https://launchermeta.mojang.com/v1/packages/32ff354a3be1c4dd83027111e6d79ee4d701d2c0/14w25a.json"
+		"size": 69887.0
 	},
 	"assets": "14w25a",
 	"complianceLevel": 0.0,
