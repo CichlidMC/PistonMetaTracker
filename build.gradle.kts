@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
     implementation("io.github.cichlidmc:PistonMetaParser:2.0.2")
-    implementation("io.github.cichlidmc:TinyJson:1.0.1")
+    implementation("io.github.cichlidmc:TinyJson:1.1.0")
 }
 
 application {
