@@ -1,9 +1,15 @@
 {
 	"latest": {
 		"release": "1.21.3",
-		"snapshot": "1.21.4-pre1"
+		"snapshot": "1.21.4-pre2"
 	},
 	"versions": [
+		{
+			"id": "1.21.4-pre2",
+			"type": "snapshot",
+			"releaseTime": "2024-11-25T13:18:35+00:00",
+			"complianceLevel": 1.0
+		},
 		{
 			"id": "1.21.4-pre1",
 			"type": "snapshot",
