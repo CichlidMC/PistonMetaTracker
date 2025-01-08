@@ -1,9 +1,15 @@
 {
 	"latest": {
 		"release": "1.21.4",
-		"snapshot": "1.21.4"
+		"snapshot": "25w02a"
 	},
 	"versions": [
+		{
+			"id": "25w02a",
+			"type": "snapshot",
+			"releaseTime": "2025-01-08T13:42:18+00:00",
+			"complianceLevel": 1.0
+		},
 		{
 			"id": "1.21.4",
 			"type": "release",
@@ -4103,13 +4109,13 @@
 			"complianceLevel": 0.0
 		},
 		{
-			"id": "13w37b",
+			"id": "1.6.3",
 			"type": "snapshot",
 			"releaseTime": "2013-09-13T10:54:41+00:00",
 			"complianceLevel": 0.0
 		},
 		{
-			"id": "1.6.3",
+			"id": "13w37b",
 			"type": "snapshot",
 			"releaseTime": "2013-09-13T10:54:41+00:00",
 			"complianceLevel": 0.0
@@ -4283,13 +4289,13 @@
 			"complianceLevel": 0.0
 		},
 		{
-			"id": "1.4.5",
+			"id": "1.4.6",
 			"type": "release",
 			"releaseTime": "2012-12-19T22:00:00+00:00",
 			"complianceLevel": 0.0
 		},
 		{
-			"id": "1.4.6",
+			"id": "1.4.5",
 			"type": "release",
 			"releaseTime": "2012-12-19T22:00:00+00:00",
 			"complianceLevel": 0.0
