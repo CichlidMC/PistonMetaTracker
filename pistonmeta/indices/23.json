@@ -65,12 +65,12 @@
 			"size": 24806.0
 		},
 		"minecraft/resourcepacks/programmer_art.zip": {
-			"hash": "5ddafa1debe5678d90116659bb46854d0ad967db",
-			"size": 617419.0
+			"hash": "998d71b8e09e504ad8281498ab3e0b45e2bffd98",
+			"size": 617487.0
 		},
 		"minecraft/sounds.json": {
-			"hash": "cee364d6fa7c508f530d1281a6e563d94ff61ba6",
-			"size": 537226.0
+			"hash": "8e0f9eb65f5aad621e8192e2967aad35c7b762f0",
+			"size": 536980.0
 		},
 		"minecraft/sounds/ambient/cave/cave1.ogg": {
 			"hash": "1058cf72714c48b154e7883cb9d7ec918e0816b3",
@@ -3644,69 +3644,69 @@
 			"hash": "26e04754e24ef912e08387423bd096b0d7d08815",
 			"size": 7301.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_break1.ogg": {
-			"hash": "f2304955894dd05f74ad43aa073d7cdff7545c5b",
-			"size": 8106.0
+		"minecraft/sounds/block/leaf_litter/break1.ogg": {
+			"hash": "5340d653099dcccd01062c6ee453f28a7b5684bc",
+			"size": 8138.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_break2.ogg": {
-			"hash": "94ed4fe18053ebc77c857b14a1bd5d1d1c1817a2",
-			"size": 8640.0
+		"minecraft/sounds/block/leaf_litter/break2.ogg": {
+			"hash": "9a079fc614f1b5ea6ce4dd57a408d591a05447ef",
+			"size": 8358.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_break3.ogg": {
-			"hash": "d85b0db512e60f3109c42bc768574967791d983c",
-			"size": 8985.0
+		"minecraft/sounds/block/leaf_litter/break3.ogg": {
+			"hash": "c45746a7f413659883173ca80d588c42992cf7f2",
+			"size": 8918.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_break4.ogg": {
-			"hash": "d88b4314417a6341087e1d0e7ca78cdd4c837f9d",
-			"size": 8459.0
+		"minecraft/sounds/block/leaf_litter/break4.ogg": {
+			"hash": "2fe735984961470b6f3edff20ccc34bc90a35ffa",
+			"size": 8427.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_break5.ogg": {
-			"hash": "f0bae1be7f5215722a6de58e158086cfcd209ba3",
-			"size": 8639.0
+		"minecraft/sounds/block/leaf_litter/break5.ogg": {
+			"hash": "a2c420c177d06113c82183298507a01bd5f30192",
+			"size": 8417.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_place1.ogg": {
-			"hash": "4daae3b4b1dadb9c0d5c3327bcacd04c4543840a",
-			"size": 9877.0
+		"minecraft/sounds/block/leaf_litter/place1.ogg": {
+			"hash": "abf654cf295153c579021d4936ea496453cd46fa",
+			"size": 9727.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_place2.ogg": {
-			"hash": "b89de25227b835fbe146a3ce9e6653357c18cddb",
-			"size": 7869.0
+		"minecraft/sounds/block/leaf_litter/place2.ogg": {
+			"hash": "aa8dea7b0f0654cecfa03d9aa50de638fb7a70a9",
+			"size": 7797.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_place3.ogg": {
-			"hash": "cc0308550c349492bf5d00679410b37d24989be3",
-			"size": 8713.0
+		"minecraft/sounds/block/leaf_litter/place3.ogg": {
+			"hash": "50705bafa6ea7a7762df77040f52425db3280574",
+			"size": 8649.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_place4.ogg": {
-			"hash": "6cb6c8faefa42f190ea1f80fd3efc804af519dde",
-			"size": 8418.0
+		"minecraft/sounds/block/leaf_litter/place4.ogg": {
+			"hash": "0d40d1ae1c24f1e4f8c93aeeaf56204d8274e4b0",
+			"size": 8373.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_place5.ogg": {
-			"hash": "01e0b7f51d987d56e4aa491f935661ae6e5f65e4",
-			"size": 8624.0
+		"minecraft/sounds/block/leaf_litter/place5.ogg": {
+			"hash": "841c8ce0aab798fd3a351df5d4dbd7d33d93cc86",
+			"size": 8571.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_step1.ogg": {
-			"hash": "fac7aa594ff13514e055f39a448c67f1dd14c245",
-			"size": 9427.0
+		"minecraft/sounds/block/leaf_litter/step1.ogg": {
+			"hash": "fcc5c11ceb862e1fc2d50244dba66c7fe9d929bf",
+			"size": 9259.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_step2.ogg": {
-			"hash": "5ebb08302fd76d6a682c8dbcac0a415f00a66642",
-			"size": 11324.0
+		"minecraft/sounds/block/leaf_litter/step2.ogg": {
+			"hash": "0fdd2efdbf69b5d373294f16246408bd187442bf",
+			"size": 11052.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_step3.ogg": {
-			"hash": "1d663a8263d7fc365e0507dd064655ff9bda9083",
-			"size": 10018.0
+		"minecraft/sounds/block/leaf_litter/step3.ogg": {
+			"hash": "19a5baec8f25afdc2c69d2fcbc8ba1539c6654de",
+			"size": 9856.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_step4.ogg": {
-			"hash": "56fce88b9b16ccb357b41677ad799ca09736d4c6",
-			"size": 13299.0
+		"minecraft/sounds/block/leaf_litter/step4.ogg": {
+			"hash": "34045a5f85387fa6592e6466435e95825e171c25",
+			"size": 12695.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_step5.ogg": {
-			"hash": "3f6d39b84ddda5a4af3367d0643b334baac8ae24",
-			"size": 11152.0
+		"minecraft/sounds/block/leaf_litter/step5.ogg": {
+			"hash": "c8bb74a4365de2128cb42c52f261f6e260c5db0d",
+			"size": 11045.0
 		},
-		"minecraft/sounds/block/leaf_litter/leaf_litter_step6.ogg": {
-			"hash": "3b2b49332d7fef427ff74525bc3598466f538815",
-			"size": 11877.0
+		"minecraft/sounds/block/leaf_litter/step6.ogg": {
+			"hash": "bb3cdd562b205b4dd1f9a8e961fb5786006493fd",
+			"size": 11644.0
 		},
 		"minecraft/sounds/block/lodestone/lock1.ogg": {
 			"hash": "4553885dcba9ad468a6cbda4f809d27eed83aeee",
@@ -6601,20 +6601,20 @@
 			"size": 8161.0
 		},
 		"minecraft/sounds/dig/grass1.ogg": {
-			"hash": "39fd80b9346a28f891c6ffabd197b974fa61f2cd",
-			"size": 8187.0
+			"hash": "f970f8e68b06d60603af52120056ff2eb66ac75d",
+			"size": 7706.0
 		},
 		"minecraft/sounds/dig/grass2.ogg": {
-			"hash": "f2da10547bfa0f1babdfd2ea5c31e09cd871a3aa",
-			"size": 8279.0
+			"hash": "918c409795350a885b1d0a9b6390885f5695fdfa",
+			"size": 8146.0
 		},
 		"minecraft/sounds/dig/grass3.ogg": {
-			"hash": "cebb2bda1cd962516882e36ad2a9927167aadfa1",
-			"size": 7966.0
+			"hash": "b8e34bdc18ed5ddad772a8f5b2017d89dbee6c02",
+			"size": 7744.0
 		},
 		"minecraft/sounds/dig/grass4.ogg": {
-			"hash": "a0b221f6c8e23628108a46804ab2afb15c180b5a",
-			"size": 8124.0
+			"hash": "751373e07aae51ea3eaa53b5b38dc293b6b504d9",
+			"size": 7716.0
 		},
 		"minecraft/sounds/dig/gravel1.ogg": {
 			"hash": "91f8c3ab78696acc791e139e89dcb38d28f6af7f",

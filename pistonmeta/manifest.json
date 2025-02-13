@@ -1,9 +1,15 @@
 {
 	"latest": {
 		"release": "1.21.4",
-		"snapshot": "25w06a"
+		"snapshot": "25w07a"
 	},
 	"versions": [
+		{
+			"id": "25w07a",
+			"type": "snapshot",
+			"releaseTime": "2025-02-13T12:55:37+00:00",
+			"complianceLevel": 1.0
+		},
 		{
 			"id": "25w06a",
 			"type": "snapshot",
