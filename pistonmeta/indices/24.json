@@ -61,12 +61,12 @@
 			"size": 234839.0
 		},
 		"minecraft/resourcepacks/high_contrast.zip": {
-			"hash": "700c9457d7e296532139332287f7bb4b7f2e947e",
+			"hash": "f512481f8e3b1d57928b5d4cec4e311fe0038c76",
 			"size": 24806.0
 		},
 		"minecraft/resourcepacks/programmer_art.zip": {
-			"hash": "cfb6ee61475c6caa203978ae417589ad9fadec3d",
-			"size": 617443.0
+			"hash": "d043fcb2a9e16a362789387d200144a179a77e7f",
+			"size": 618278.0
 		},
 		"minecraft/sounds.json": {
 			"hash": "054ce6faf33806879f0f1f38204ee9eb080388ec",
@@ -16125,28 +16125,28 @@
 			"size": 21361.0
 		},
 		"minecraft/textures/gui/title/background/panorama_0.png": {
-			"hash": "11e7261085b99ec9c850a59ed95b6bfbb576c8cc",
-			"size": 392487.0
+			"hash": "4c91acd1304382c9815c9cda9be936a8f1add659",
+			"size": 347099.0
 		},
 		"minecraft/textures/gui/title/background/panorama_1.png": {
-			"hash": "87a04c89609bad3c46e45420eba4ffddac4be836",
-			"size": 437134.0
+			"hash": "fe231871707578f0e122d0d7c85f467d04c8bb30",
+			"size": 219678.0
 		},
 		"minecraft/textures/gui/title/background/panorama_2.png": {
-			"hash": "cf5c286cb670d4c0ea5fc03728252fe4003b3fbb",
-			"size": 378812.0
+			"hash": "2bf90cff6cfb2c2e9d5e74069a08fd3dbfa9f0c3",
+			"size": 341146.0
 		},
 		"minecraft/textures/gui/title/background/panorama_3.png": {
-			"hash": "8294df934ee4a6373d973cdb5257df793641ba34",
-			"size": 326585.0
+			"hash": "90662a383543c50f40f1e25927d95b18d8222ea0",
+			"size": 342084.0
 		},
 		"minecraft/textures/gui/title/background/panorama_4.png": {
-			"hash": "60a0380dca096ae055fc1d7d88eebfc33ae94d7b",
-			"size": 421783.0
+			"hash": "01ee504c51dfe11bbdfadbc0445c7c84b728d3a8",
+			"size": 22218.0
 		},
 		"minecraft/textures/gui/title/background/panorama_5.png": {
-			"hash": "7d5d238627d3e4171979be59f8c73e8aad5479ae",
-			"size": 64611.0
+			"hash": "2b37830aab6dfb005764829dd2371bd371b87d66",
+			"size": 92302.0
 		},
 		"minecraft/textures/gui/title/background/panorama_overlay.png": {
 			"hash": "9dd32387135eefa7ab95996d52a5ca4cec8a3b30",
