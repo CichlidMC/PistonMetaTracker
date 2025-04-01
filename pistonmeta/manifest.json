@@ -1,9 +1,15 @@
 {
 	"latest": {
 		"release": "1.21.5",
-		"snapshot": "1.21.5"
+		"snapshot": "25w14craftmine"
 	},
 	"versions": [
+		{
+			"id": "25w14craftmine",
+			"type": "snapshot",
+			"releaseTime": "2025-04-01T15:50:09+00:00",
+			"complianceLevel": 1.0
+		},
 		{
 			"id": "1.21.5",
 			"type": "release",
@@ -4199,13 +4205,13 @@
 			"complianceLevel": 0.0
 		},
 		{
-			"id": "13w37b",
+			"id": "1.6.3",
 			"type": "snapshot",
 			"releaseTime": "2013-09-13T10:54:41+00:00",
 			"complianceLevel": 0.0
 		},
 		{
-			"id": "1.6.3",
+			"id": "13w37b",
 			"type": "snapshot",
 			"releaseTime": "2013-09-13T10:54:41+00:00",
 			"complianceLevel": 0.0
