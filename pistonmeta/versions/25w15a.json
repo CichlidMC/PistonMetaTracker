@@ -154,34 +154,34 @@
 		]
 	},
 	"assetIndex": {
-		"id": "24",
-		"size": 482595.0
+		"id": "25",
+		"size": 489734.0
 	},
-	"assets": "24",
+	"assets": "25",
 	"complianceLevel": 1.0,
 	"downloads": {
 		"client": {
-			"sha1": "74507227d97684d7ed51fed0aa335c7d93195bc6",
-			"size": 2.8983029E7,
-			"url": "https://piston-data.mojang.com/v1/objects/74507227d97684d7ed51fed0aa335c7d93195bc6/client.jar"
+			"sha1": "a12b375db4d067af9653557e7e3c8a61fa1016c5",
+			"size": 2.9132986E7,
+			"url": "https://piston-data.mojang.com/v1/objects/a12b375db4d067af9653557e7e3c8a61fa1016c5/client.jar"
 		},
 		"client_mappings": {
-			"sha1": "459ed5fc9c60c58d25b9c9593a04d1c364c900a6",
-			"size": 1.0669995E7,
-			"url": "https://piston-data.mojang.com/v1/objects/459ed5fc9c60c58d25b9c9593a04d1c364c900a6/client.txt"
+			"sha1": "2a8329ac1dece528e834ac79255d3d28638716d8",
+			"size": 1.0774784E7,
+			"url": "https://piston-data.mojang.com/v1/objects/2a8329ac1dece528e834ac79255d3d28638716d8/client.txt"
 		},
 		"server": {
-			"sha1": "7a6ec51f9e3095a8d2406042760d2989a1e8ad2b",
-			"size": 5.7263414E7,
-			"url": "https://piston-data.mojang.com/v1/objects/7a6ec51f9e3095a8d2406042760d2989a1e8ad2b/server.jar"
+			"sha1": "fed01fcdf4d2f37b3f847e08fd099714766533c3",
+			"size": 5.7378771E7,
+			"url": "https://piston-data.mojang.com/v1/objects/fed01fcdf4d2f37b3f847e08fd099714766533c3/server.jar"
 		},
 		"server_mappings": {
-			"sha1": "cdfaeb62e5d35aeeaa0c648fdd8dc28309791377",
-			"size": 8027357.0,
-			"url": "https://piston-data.mojang.com/v1/objects/cdfaeb62e5d35aeeaa0c648fdd8dc28309791377/server.txt"
+			"sha1": "0a5b698d19dcb090e15684e076e101d596d8fec5",
+			"size": 8086622.0,
+			"url": "https://piston-data.mojang.com/v1/objects/0a5b698d19dcb090e15684e076e101d596d8fec5/server.txt"
 		}
 	},
-	"id": "1.21.5-pre2",
+	"id": "25w15a",
 	"javaVersion": {
 		"component": "java-runtime-delta",
 		"majorVersion": 21.0
@@ -1877,7 +1877,7 @@
 	},
 	"mainClass": "net.minecraft.client.main.Main",
 	"minimumLauncherVersion": 21.0,
-	"releaseTime": "2025-03-12T12:36:02+00:00",
-	"time": "2025-03-12T12:36:02+00:00",
+	"releaseTime": "2025-04-08T12:16:59+00:00",
+	"time": "2025-04-08T12:16:59+00:00",
 	"type": "snapshot"
 }
