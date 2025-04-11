@@ -61,16 +61,16 @@
 			"size": 234839.0
 		},
 		"minecraft/resourcepacks/high_contrast.zip": {
-			"hash": "d83ada6c654315763c3178223560c3a91f970d21",
+			"hash": "e0efc48b1d9804502bc040dcd601a8127dcfad3c",
 			"size": 24806.0
 		},
 		"minecraft/resourcepacks/programmer_art.zip": {
-			"hash": "c0ce3323ed801e9c043907b192bce2a66ef31e17",
-			"size": 660620.0
+			"hash": "6a02c65e035f539e878c075c06e6c19e45769b8c",
+			"size": 660619.0
 		},
 		"minecraft/sounds.json": {
-			"hash": "a0987cc0172f44aeee3cf1b3f7b561b1561d4cd4",
-			"size": 542532.0
+			"hash": "054ce6faf33806879f0f1f38204ee9eb080388ec",
+			"size": 542967.0
 		},
 		"minecraft/sounds/ambient/cave/cave1.ogg": {
 			"hash": "1058cf72714c48b154e7883cb9d7ec918e0816b3",
@@ -6972,6 +6972,82 @@
 			"hash": "027a4dd9a154b579f299743b00d185f4a5e9f7a0",
 			"size": 13900.0
 		},
+		"minecraft/sounds/entity/glow_squid/ambient1.ogg": {
+			"hash": "d7eea753fd5427fa998cf16a7e2f23b609f49543",
+			"size": 30380.0
+		},
+		"minecraft/sounds/entity/glow_squid/ambient2.ogg": {
+			"hash": "d5431403bfe1850cc294af2f35e737797a1da3fa",
+			"size": 28390.0
+		},
+		"minecraft/sounds/entity/glow_squid/ambient3.ogg": {
+			"hash": "e013433d9eefa16770ca4490057809d06982bdb2",
+			"size": 30435.0
+		},
+		"minecraft/sounds/entity/glow_squid/ambient4.ogg": {
+			"hash": "03b362c532f7ed076cd88ab64b19a3f73c90163f",
+			"size": 26070.0
+		},
+		"minecraft/sounds/entity/glow_squid/ambient5.ogg": {
+			"hash": "14a6d604352f36301c4916a3c648e47d5ce90a3a",
+			"size": 31178.0
+		},
+		"minecraft/sounds/entity/glow_squid/death1.ogg": {
+			"hash": "3280cc0e1315544c95499b2605b449b74f72f14f",
+			"size": 28316.0
+		},
+		"minecraft/sounds/entity/glow_squid/death2.ogg": {
+			"hash": "e2150a8156779b2e95d160eea10ef9d90f1f411b",
+			"size": 26176.0
+		},
+		"minecraft/sounds/entity/glow_squid/death3.ogg": {
+			"hash": "081806d394e4195a8cd7a86d6a75a538710ffc8a",
+			"size": 24448.0
+		},
+		"minecraft/sounds/entity/glow_squid/hurt1.ogg": {
+			"hash": "cf086d2c2a01895cdcc06b4f9389266af3650eb0",
+			"size": 19295.0
+		},
+		"minecraft/sounds/entity/glow_squid/hurt2.ogg": {
+			"hash": "1e8424eee2b7dace9f2c0c5aef27f35e0c6e810d",
+			"size": 18081.0
+		},
+		"minecraft/sounds/entity/glow_squid/hurt3.ogg": {
+			"hash": "b538a0fcb3666d8c0cbf06ccd2db9138fa3484ad",
+			"size": 16920.0
+		},
+		"minecraft/sounds/entity/glow_squid/hurt4.ogg": {
+			"hash": "b9ee1f3190faee2d3d3ae2b7deba3ead8905232a",
+			"size": 18327.0
+		},
+		"minecraft/sounds/entity/glow_squid/squirt1.ogg": {
+			"hash": "b83f8cab85b9288e27ac3ed59dd5b0d06b224c95",
+			"size": 24482.0
+		},
+		"minecraft/sounds/entity/glow_squid/squirt2.ogg": {
+			"hash": "c3fa8cadd6a35cc16a6218ac7fdd69848d017f6f",
+			"size": 24429.0
+		},
+		"minecraft/sounds/entity/glow_squid/squirt3.ogg": {
+			"hash": "c53103daf9cb37f9d183ddc75e9015173f8161fe",
+			"size": 24656.0
+		},
+		"minecraft/sounds/entity/guardian/ambient1.ogg": {
+			"hash": "efd770196ca6bff7497e30f78f770d3b3b547b4b",
+			"size": 14992.0
+		},
+		"minecraft/sounds/entity/guardian/ambient2.ogg": {
+			"hash": "461cefd95b72446499462ceba8235e26bc8b5292",
+			"size": 14667.0
+		},
+		"minecraft/sounds/entity/guardian/ambient3.ogg": {
+			"hash": "e4f886b180e038dfbdd5b1bd48a79d0bef46b4fa",
+			"size": 13371.0
+		},
+		"minecraft/sounds/entity/guardian/ambient4.ogg": {
+			"hash": "8f3044f9d866d93b6d4f9543c14044a80f90d679",
+			"size": 12703.0
+		},
 		"minecraft/sounds/entity/horse/eat1.ogg": {
 			"hash": "ee4ca5a73aa96e40055ca858f520821df9f71600",
 			"size": 9027.0
@@ -7272,6 +7348,78 @@
 			"hash": "ec5d867eedaf6d09eaae0b6661a63d708c641d2e",
 			"size": 11123.0
 		},
+		"minecraft/sounds/entity/pufferfish/blow_out1.ogg": {
+			"hash": "f2c8022f3dcd8ea20a491fc348ffe3943d94d9ef",
+			"size": 9741.0
+		},
+		"minecraft/sounds/entity/pufferfish/blow_out2.ogg": {
+			"hash": "50ec7ecc3244655688e27bf8169a94fd0c12e7ce",
+			"size": 9194.0
+		},
+		"minecraft/sounds/entity/pufferfish/blow_up1.ogg": {
+			"hash": "07b8d2d4b2254e2f2025695a93eff81b8a244a7b",
+			"size": 6516.0
+		},
+		"minecraft/sounds/entity/pufferfish/blow_up2.ogg": {
+			"hash": "66173e5d28add6337d8a3311a470a898bebc9b6d",
+			"size": 7117.0
+		},
+		"minecraft/sounds/entity/pufferfish/death1.ogg": {
+			"hash": "e921725a3564630a95c443c99d463bb0877307f2",
+			"size": 10423.0
+		},
+		"minecraft/sounds/entity/pufferfish/death2.ogg": {
+			"hash": "524b07366062a097582b35b1b51dac0cf01131cc",
+			"size": 11396.0
+		},
+		"minecraft/sounds/entity/pufferfish/flop1.ogg": {
+			"hash": "8bdd9dc43166d8ac3a93a8a6907bd2e0c6e1dc53",
+			"size": 8705.0
+		},
+		"minecraft/sounds/entity/pufferfish/flop2.ogg": {
+			"hash": "ee69ba4643850e25c135089671abb6f7f2b0605f",
+			"size": 8833.0
+		},
+		"minecraft/sounds/entity/pufferfish/flop3.ogg": {
+			"hash": "42a6b8b7a9c20c1a73e64ae6bab694c3f124c891",
+			"size": 8044.0
+		},
+		"minecraft/sounds/entity/pufferfish/flop4.ogg": {
+			"hash": "6b7dc17dd98147dee62028a26b10354ea72881a8",
+			"size": 8806.0
+		},
+		"minecraft/sounds/entity/pufferfish/hurt1.ogg": {
+			"hash": "cbe0bcd4e918d83a5964daa4a6d1cb52875e61ff",
+			"size": 9619.0
+		},
+		"minecraft/sounds/entity/pufferfish/hurt2.ogg": {
+			"hash": "3a036d07f4a38045ee6d825b2ab9a80d7393f81d",
+			"size": 9361.0
+		},
+		"minecraft/sounds/entity/pufferfish/sting1.ogg": {
+			"hash": "8c77e39c3958afba611d8deb5e9fad14565754a7",
+			"size": 17671.0
+		},
+		"minecraft/sounds/entity/pufferfish/sting2.ogg": {
+			"hash": "a36831c90b82b2c640d5d5aa5e68d95c2a33e66a",
+			"size": 17258.0
+		},
+		"minecraft/sounds/entity/rabbit/attack1.ogg": {
+			"hash": "fa72bfddc68861a12cb74b6eab8540c97d3cf810",
+			"size": 7725.0
+		},
+		"minecraft/sounds/entity/rabbit/attack2.ogg": {
+			"hash": "2684ec22cc77a8b34013155dccbaef5563fc2190",
+			"size": 7606.0
+		},
+		"minecraft/sounds/entity/rabbit/attack3.ogg": {
+			"hash": "8669668f3aa42ca007e5ae6dd78e0c96d2c5fcd4",
+			"size": 10021.0
+		},
+		"minecraft/sounds/entity/rabbit/attack4.ogg": {
+			"hash": "8ed4b0a281dcc54691427b10036e65cb407f922b",
+			"size": 9129.0
+		},
 		"minecraft/sounds/entity/shulker/ambient1.ogg": {
 			"hash": "95dca0416258364d90649392592d470eb800b17c",
 			"size": 7620.0
@@ -7447,6 +7595,66 @@
 		"minecraft/sounds/entity/snowman/hurt3.ogg": {
 			"hash": "5094896e7cad39b5e02171fcfb46e4fd1f39faa5",
 			"size": 6813.0
+		},
+		"minecraft/sounds/entity/squid/ambient1.ogg": {
+			"hash": "92d2131b77dcd60662b1654a19e1adda5298b000",
+			"size": 10873.0
+		},
+		"minecraft/sounds/entity/squid/ambient2.ogg": {
+			"hash": "d3bfe35a4fba6d758d3145a1ec79537b375951e5",
+			"size": 9625.0
+		},
+		"minecraft/sounds/entity/squid/ambient3.ogg": {
+			"hash": "f838813765b828ba7cf7e5bd2b90f4feda336a5c",
+			"size": 10159.0
+		},
+		"minecraft/sounds/entity/squid/ambient4.ogg": {
+			"hash": "27ae395229d009612356eb15f515136a0735c3a4",
+			"size": 7985.0
+		},
+		"minecraft/sounds/entity/squid/ambient5.ogg": {
+			"hash": "06ad3d307a76c4580a4544fe3979dec91cdbb783",
+			"size": 10827.0
+		},
+		"minecraft/sounds/entity/squid/death1.ogg": {
+			"hash": "f8bb5cd842efcf11fed61ab3f84829e52c86dbd0",
+			"size": 13621.0
+		},
+		"minecraft/sounds/entity/squid/death2.ogg": {
+			"hash": "031a652f8312c40cb840d799697b46ac82caff43",
+			"size": 14015.0
+		},
+		"minecraft/sounds/entity/squid/death3.ogg": {
+			"hash": "2b19c3348c5c8e76149a75daea2697d80b9ef9a8",
+			"size": 11347.0
+		},
+		"minecraft/sounds/entity/squid/hurt1.ogg": {
+			"hash": "4eca0b42ae1d805adc3cc9111b05dcdd030c6cfd",
+			"size": 8690.0
+		},
+		"minecraft/sounds/entity/squid/hurt2.ogg": {
+			"hash": "b67b209ba70e8f9870c423fc287ba006e31beefd",
+			"size": 7195.0
+		},
+		"minecraft/sounds/entity/squid/hurt3.ogg": {
+			"hash": "167060f1bbc05af83e76cd87d806ca639a84c171",
+			"size": 7169.0
+		},
+		"minecraft/sounds/entity/squid/hurt4.ogg": {
+			"hash": "9951f6d78107877d0fe342ab3bff2ffc3b3393a6",
+			"size": 6880.0
+		},
+		"minecraft/sounds/entity/squid/squirt1.ogg": {
+			"hash": "033d81228f515aaa0db79aeb02815ae81c8ff350",
+			"size": 18260.0
+		},
+		"minecraft/sounds/entity/squid/squirt2.ogg": {
+			"hash": "7beb78e86805a46f533619f64c93bcf0cf2eb669",
+			"size": 20319.0
+		},
+		"minecraft/sounds/entity/squid/squirt3.ogg": {
+			"hash": "7825864b7d10705e97ce395853742a70de8f51e7",
+			"size": 21725.0
 		},
 		"minecraft/sounds/entity/wind_charge/wind_burst1.ogg": {
 			"hash": "22b61f8192748c33e482b973edd993eed7c405da",
@@ -10700,66 +10908,6 @@
 			"hash": "6853ff1b496995fd4acf8b0bb60bb28b4f9dabac",
 			"size": 13216.0
 		},
-		"minecraft/sounds/mob/glow_squid/ambient1.ogg": {
-			"hash": "c8e9f431216b9d9d1e5f94be6a080f7434869f9e",
-			"size": 30380.0
-		},
-		"minecraft/sounds/mob/glow_squid/ambient2.ogg": {
-			"hash": "e9def72a56fce0abb827733c53658a41154717a5",
-			"size": 28390.0
-		},
-		"minecraft/sounds/mob/glow_squid/ambient3.ogg": {
-			"hash": "2ff78c98aedfb84ad6bb0caac5436d26e28b2589",
-			"size": 30435.0
-		},
-		"minecraft/sounds/mob/glow_squid/ambient4.ogg": {
-			"hash": "f922d803219b7c24b1e510c1f187ec23c288e0ff",
-			"size": 26070.0
-		},
-		"minecraft/sounds/mob/glow_squid/ambient5.ogg": {
-			"hash": "71f6777df8dcf6bb5f079f1701b1dd36dd952153",
-			"size": 31178.0
-		},
-		"minecraft/sounds/mob/glow_squid/death1.ogg": {
-			"hash": "c3f259d3bd0f8c1283d1bd4eaafea33266eefa7a",
-			"size": 28316.0
-		},
-		"minecraft/sounds/mob/glow_squid/death2.ogg": {
-			"hash": "9dc573ff438bebb8a78fafd5208c4b30a37ec842",
-			"size": 26176.0
-		},
-		"minecraft/sounds/mob/glow_squid/death3.ogg": {
-			"hash": "169eae10c6c9cc2327ad848aa9d7290a56686422",
-			"size": 24448.0
-		},
-		"minecraft/sounds/mob/glow_squid/hurt1.ogg": {
-			"hash": "c66e36fe4bd15fe566c9de47b22b0899c39c36c5",
-			"size": 19295.0
-		},
-		"minecraft/sounds/mob/glow_squid/hurt2.ogg": {
-			"hash": "951f06dc9d4866a2950eca97cb99a35515c5003d",
-			"size": 18081.0
-		},
-		"minecraft/sounds/mob/glow_squid/hurt3.ogg": {
-			"hash": "9e19baa7f6107aeb6e89f0058808408d71ca212c",
-			"size": 16920.0
-		},
-		"minecraft/sounds/mob/glow_squid/hurt4.ogg": {
-			"hash": "b6a02136a675403d2efe5f139267174d23cacca0",
-			"size": 18327.0
-		},
-		"minecraft/sounds/mob/glow_squid/squirt1.ogg": {
-			"hash": "c8eff5282683bf3aa141ed4ba894169d8ba5ab8c",
-			"size": 24482.0
-		},
-		"minecraft/sounds/mob/glow_squid/squirt2.ogg": {
-			"hash": "0d677ebd6e14704941527898704f83b015509d8e",
-			"size": 24429.0
-		},
-		"minecraft/sounds/mob/glow_squid/squirt3.ogg": {
-			"hash": "be01faa85e08d3e52e94dfdd501c26f479a33861",
-			"size": 24656.0
-		},
 		"minecraft/sounds/mob/goat/death1.ogg": {
 			"hash": "f06d0edd6f684505e9d08c2d29524bdde10ad5c6",
 			"size": 13545.0
@@ -11096,22 +11244,6 @@
 			"hash": "1c20908d9029ed3dc441a1c77e6cfeb862f56cb8",
 			"size": 10035.0
 		},
-		"minecraft/sounds/mob/guardian/guardian_idle1.ogg": {
-			"hash": "9ada20da7c229e7598261d8a60c66e3dbc496507",
-			"size": 14992.0
-		},
-		"minecraft/sounds/mob/guardian/guardian_idle2.ogg": {
-			"hash": "f2cb23554501f00e0e714be37e02ac83eb906b83",
-			"size": 14667.0
-		},
-		"minecraft/sounds/mob/guardian/guardian_idle3.ogg": {
-			"hash": "ec7cb9a6aaba2f1d801039075c4e6a08176cd737",
-			"size": 13371.0
-		},
-		"minecraft/sounds/mob/guardian/guardian_idle4.ogg": {
-			"hash": "dfec4843eafefcca5b1aea40fe1639604ab7774a",
-			"size": 12703.0
-		},
 		"minecraft/sounds/mob/guardian/land_death.ogg": {
 			"hash": "2d0deed2af648ecb09b0380c1588993cfeb2c32a",
 			"size": 11822.0
@@ -11355,26 +11487,6 @@
 		"minecraft/sounds/mob/horse/donkey/idle3.ogg": {
 			"hash": "f88abbff29410862a934d78f834d3142f34bc116",
 			"size": 11640.0
-		},
-		"minecraft/sounds/mob/horse/eat1.ogg": {
-			"hash": "4d788294e6a2e174f2d8fd1c462f20df97f9dabd",
-			"size": 9027.0
-		},
-		"minecraft/sounds/mob/horse/eat2.ogg": {
-			"hash": "e506848dc623f8a87ecc27f3f5d99d70d636ba43",
-			"size": 7507.0
-		},
-		"minecraft/sounds/mob/horse/eat3.ogg": {
-			"hash": "96729da0224ea09b3bbfe61dbb7c8668ddb96583",
-			"size": 7486.0
-		},
-		"minecraft/sounds/mob/horse/eat4.ogg": {
-			"hash": "de4b6161731ee4be81a74e2626ac018c0e465dd3",
-			"size": 7492.0
-		},
-		"minecraft/sounds/mob/horse/eat5.ogg": {
-			"hash": "d2361f1f549f8f1c8709e2ae5760e3325bf2cd80",
-			"size": 6723.0
 		},
 		"minecraft/sounds/mob/horse/gallop1.ogg": {
 			"hash": "f92ce93d42da91a95d921efd1532a1dff479a7a9",
@@ -12816,78 +12928,6 @@
 			"hash": "3607b1d4e8d5e42de1a3fbb60b9948d7dbe5d039",
 			"size": 11387.0
 		},
-		"minecraft/sounds/mob/pufferfish/blow_out1.ogg": {
-			"hash": "1104f9f1943d809f8c25c6853ece27d6072636ff",
-			"size": 9741.0
-		},
-		"minecraft/sounds/mob/pufferfish/blow_out2.ogg": {
-			"hash": "65d56e92a4dc664b3462c9756131bf2174725fdd",
-			"size": 9194.0
-		},
-		"minecraft/sounds/mob/pufferfish/blow_up1.ogg": {
-			"hash": "0576bfe8c73151c8e9588fb41f6aad29e4fa26e2",
-			"size": 6516.0
-		},
-		"minecraft/sounds/mob/pufferfish/blow_up2.ogg": {
-			"hash": "f767a5608013a899491eb3cec4ebd105c1e26d26",
-			"size": 7117.0
-		},
-		"minecraft/sounds/mob/pufferfish/death1.ogg": {
-			"hash": "267c2f987e7a987c39474269503cbe37254b793b",
-			"size": 10423.0
-		},
-		"minecraft/sounds/mob/pufferfish/death2.ogg": {
-			"hash": "a2b55d2483ac7f12f22cc4ac51cd02a421aa5837",
-			"size": 11396.0
-		},
-		"minecraft/sounds/mob/pufferfish/flop1.ogg": {
-			"hash": "a53959868566c96bd7ad08d1b3721101fdc4b39f",
-			"size": 8705.0
-		},
-		"minecraft/sounds/mob/pufferfish/flop2.ogg": {
-			"hash": "f40c17b88b4e09ce11361721b40ea384dc873f62",
-			"size": 8833.0
-		},
-		"minecraft/sounds/mob/pufferfish/flop3.ogg": {
-			"hash": "631491c0d7f13f0fd8a435962105d161c281dc7a",
-			"size": 8044.0
-		},
-		"minecraft/sounds/mob/pufferfish/flop4.ogg": {
-			"hash": "1708ab5af3717991ebf610e6e4a345812d3e985f",
-			"size": 8806.0
-		},
-		"minecraft/sounds/mob/pufferfish/hurt1.ogg": {
-			"hash": "750d9b56e1ad11cafb937052d4579f5072f67efe",
-			"size": 9619.0
-		},
-		"minecraft/sounds/mob/pufferfish/hurt2.ogg": {
-			"hash": "90f9308bb2e4df9fca59e48389d8317243c2db15",
-			"size": 9361.0
-		},
-		"minecraft/sounds/mob/pufferfish/sting1.ogg": {
-			"hash": "9b761739bb3899f466089a1fe8a1fb32fe97a6a8",
-			"size": 17671.0
-		},
-		"minecraft/sounds/mob/pufferfish/sting2.ogg": {
-			"hash": "dc83e6bd215c0e4afd8727fb49c38dbde31f17c9",
-			"size": 17258.0
-		},
-		"minecraft/sounds/mob/rabbit/attack1.ogg": {
-			"hash": "461c8179c98984b384cce970ed567ce524afaff7",
-			"size": 7725.0
-		},
-		"minecraft/sounds/mob/rabbit/attack2.ogg": {
-			"hash": "4d625b1e04e3c3d35e16735e7c376a2e540be8b2",
-			"size": 7606.0
-		},
-		"minecraft/sounds/mob/rabbit/attack3.ogg": {
-			"hash": "4da41564cade0d4fa3e9babdf14142724c2d144a",
-			"size": 10021.0
-		},
-		"minecraft/sounds/mob/rabbit/attack4.ogg": {
-			"hash": "3667958768496b1600af15aa170dd24ec6c62fb5",
-			"size": 9129.0
-		},
 		"minecraft/sounds/mob/rabbit/bunnymurder.ogg": {
 			"hash": "d8d82045b29653159f689d3356dd87f38b2b41cd",
 			"size": 7501.0
@@ -13463,66 +13503,6 @@
 		"minecraft/sounds/mob/spider/step4.ogg": {
 			"hash": "9e3191b2fc9df76169aed567f53c535b2f2194da",
 			"size": 10489.0
-		},
-		"minecraft/sounds/mob/squid/ambient1.ogg": {
-			"hash": "1c6fa92e6807125c5bf0b02fc9e314ed1965effd",
-			"size": 10873.0
-		},
-		"minecraft/sounds/mob/squid/ambient2.ogg": {
-			"hash": "3eb667e446603d7c1580058b7d2656c723634760",
-			"size": 9625.0
-		},
-		"minecraft/sounds/mob/squid/ambient3.ogg": {
-			"hash": "88147cc91f326e76e8f9a9e6a1d933e2bcbfdfbd",
-			"size": 10159.0
-		},
-		"minecraft/sounds/mob/squid/ambient4.ogg": {
-			"hash": "99e20768fc500ab537217faf07b595ecd2ff0e0e",
-			"size": 7985.0
-		},
-		"minecraft/sounds/mob/squid/ambient5.ogg": {
-			"hash": "e66ebcb01ea2f6574eae97488b395577b9126b01",
-			"size": 10827.0
-		},
-		"minecraft/sounds/mob/squid/death1.ogg": {
-			"hash": "1d9f38d0c00e713a9eed7af294991a506a4a90d6",
-			"size": 13621.0
-		},
-		"minecraft/sounds/mob/squid/death2.ogg": {
-			"hash": "68f86009552982c9744c4b849359d8b520775d6a",
-			"size": 14015.0
-		},
-		"minecraft/sounds/mob/squid/death3.ogg": {
-			"hash": "c5fa55a050ccb8299a36d4870351271d5e91ffa0",
-			"size": 11347.0
-		},
-		"minecraft/sounds/mob/squid/hurt1.ogg": {
-			"hash": "af91a350ba5dd980f311af44d66c99a79cd5b424",
-			"size": 8690.0
-		},
-		"minecraft/sounds/mob/squid/hurt2.ogg": {
-			"hash": "5bebb1b6dad45a0f47c1912f6e8983c7ae24d38c",
-			"size": 7195.0
-		},
-		"minecraft/sounds/mob/squid/hurt3.ogg": {
-			"hash": "0d6733f7369dde9283c6259f58b97ba1c443ada6",
-			"size": 7169.0
-		},
-		"minecraft/sounds/mob/squid/hurt4.ogg": {
-			"hash": "4314f3a555a3208fab284d6f0dc4b95903203fbe",
-			"size": 6880.0
-		},
-		"minecraft/sounds/mob/squid/squirt1.ogg": {
-			"hash": "d03bc2e828fff4deb89635fab6fdf4a9e81608d8",
-			"size": 18260.0
-		},
-		"minecraft/sounds/mob/squid/squirt2.ogg": {
-			"hash": "911ac4247600455af6a8bf5638ba58469445e8fa",
-			"size": 20319.0
-		},
-		"minecraft/sounds/mob/squid/squirt3.ogg": {
-			"hash": "4db948ad463dcc6300d5be59abb1d185a5f25b04",
-			"size": 21725.0
 		},
 		"minecraft/sounds/mob/stray/convert1.ogg": {
 			"hash": "dfb63b5d98fc6f17aed98dcd68aca39052ae1ff4",
